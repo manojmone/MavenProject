@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-31T17:00:05 IST" name="Suite" finished-at="2021-05-31T17:00:33 IST" duration-ms="27812">
+  <suite started-at="2021-05-31T18:39:28 IST" name="Suite" finished-at="2021-05-31T18:39:57 IST" duration-ms="28589">
     <groups>
     </groups>
-    <test started-at="2021-05-31T17:00:05 IST" name="Test" finished-at="2021-05-31T17:00:33 IST" duration-ms="27812">
+    <test started-at="2021-05-31T18:39:28 IST" name="Test" finished-at="2021-05-31T18:39:57 IST" duration-ms="28589">
       <class name="tests.NewTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTest@130d63be]" started-at="2021-05-31T17:00:05 IST" name="beforeClass" finished-at="2021-05-31T17:00:08 IST" duration-ms="2831" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTest@62c3f556]" started-at="2021-05-31T18:39:28 IST" name="beforeClass" finished-at="2021-05-31T18:39:31 IST" duration-ms="3197" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="openMyBlog()[pri:0, instance:tests.NewTest@130d63be]" started-at="2021-05-31T17:00:08 IST" name="openMyBlog" finished-at="2021-05-31T17:00:32 IST" duration-ms="24633" status="PASS">
+        <test-method signature="openMyBlog()[pri:0, instance:tests.NewTest@62c3f556]" started-at="2021-05-31T18:39:31 IST" name="openMyBlog" finished-at="2021-05-31T18:39:57 IST" duration-ms="25145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openMyBlog -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTest@130d63be]" started-at="2021-05-31T17:00:32 IST" name="afterClass" finished-at="2021-05-31T17:00:33 IST" duration-ms="309" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTest@62c3f556]" started-at="2021-05-31T18:39:57 IST" name="afterClass" finished-at="2021-05-31T18:39:57 IST" duration-ms="180" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
